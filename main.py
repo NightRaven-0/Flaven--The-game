@@ -13,6 +13,8 @@ pygame.init()
 # Initialize screen
 screen = pygame.display.set_mode((config.SCREEN_WIDTH, config.SCREEN_HEIGHT))
 pygame.display.set_caption("Flaven")
+icon = pygame.image.load('assets/images/flaven_icon.png')
+pygame.display.set_icon(icon)
 clock = pygame.time.Clock()
 
 # Load images (update file paths as necessary)
