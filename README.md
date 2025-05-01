@@ -29,7 +29,7 @@ Welcome to Flaven, the hyper-realistic(yes) avian flight simulator(mhm) where th
 
 ## Contributing
 
-Feel free to contribute if you enjoy pixelated suffering. Maybe you can perhaps add a motivational quote that appears after every crash?(Definitely not Bennett Foddy reading this) I am going to be improving lots of things here, like sound effects, yet to add that horror theme that i want and etc. This is going to be fun(Said no one ever)
+Feel free to contribute if you enjoy pixelated suffering. Maybe you can perhaps add a motivational quote that appears after every crash?(Definitely not Bennett Foddy reading this). I am going to be improving lots of things here, like sound effects, yet to add that horror theme that I want and etc. This is going to be fun.(Said no one ever)
 
 ## License
 
@@ -42,4 +42,4 @@ MIT License (because why not? It's not like you'll be making millions off this..
 
 ---
 
-Enjoy the frustration! May your high score be slightly higher than your last!
+Enjoy the frustration(also no one ever) May your high score be slightly higher than your last :D
