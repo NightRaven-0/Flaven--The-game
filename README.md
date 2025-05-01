@@ -2,38 +2,38 @@
 
 ## About
 
-Welcome to Flaven, the hyper-realistic avian flight simulator where the main objective is to repeatedly fail to navigate a series of suspiciously green pipes. Experience the thrill of pressing spacebar with increasing desperation!
+Welcome to Flaven, the hyper-realistic(yes) avian flight simulator(mhm) where the main objective is to repeatedly fail to navigate a series of suspiciously green pipes. You know what time it is, it's time to fail to press spacebar at the right time with increasing desperation.
 
 ## Installation
 
-1.  Clone this repository. (If you know what that means. If not, ask a tech-savvy pigeon.)
-2.  Make sure you have Python and Pygame installed. (If the game doesn't run, this is probably why. Google is your friend... or a helpful parrot?)
+1.  Clone this repository. (If you dont know what that means, ask a tech-savvy goose.)
+2.  Make sure you have Python and Pygame installed. (If the game doesn't run, this is probably why. Tech-savvy goose is your friend.)
 3.  Navigate to the project directory in your terminal.
-4.  Run the game: `python main.py` (Prepare for disappointment... in a fun way!)
+4.  Run the game: `python main.py` (Prepare for disappointment...)
 
 ## How to Play (Spoiler: You'll Mostly Lose)
 
-* Press the **SPACEBAR** to make Flaven flap its magnificent (and tragically short-lived) wings.
-* Try to avoid the green things. (They seem to have a vendetta against our feathery friend.)
-* That's pretty much it. High score is just a myth... probably.
+* Press the **SPACEBAR** to make Flaven flap its tragically-small (and tragically short-lived) wings.
+* Try to avoid the green things. (They seem to have a vendetta against us. Hint: Fly between them. *wink nudge nudge cough*)
+* That's pretty much it. High score is just a myth...
 
 ## Controls
 
-* **SPACEBAR:** Flap (the only thing standing between Flaven and immediate doom).
+* **SPACEBAR:** Flap (the only thing standing between the bird and immediate doom).
 * **1:** Select Blue Bird (the classic loser).
 * **2:** Select Yellow Bird (slightly more optimistic loser).
 * **3:** Select Red Bird (angry loser).
-* **4:** Select Black Bird (edgy loser).
-* **Q:** Give up and quit (understandable).
+* **4:** Select Black Bird (edgy loser - yes i know something is wrong with the png).
+* **Q:** Give up and quit, probably touch some grass. (understandable).
 * **R:** Try again (bless your persistent heart).
 
 ## Contributing
 
-Feel free to contribute if you enjoy pixelated suffering! Maybe you can make the pipes slightly less evil? Or perhaps add a motivational quote that appears after every crash? Pull requests are welcome (if they don't make the game *too* easy, we're going for comedic frustration here).
+Feel free to contribute if you enjoy pixelated suffering. Maybe you can perhaps add a motivational quote that appears after every crash?(Definitely not Bennett Foddy reading this) I am going to be improving lots of things here, like sound effects, yet to add that horror theme that i want and etc. This is going to be fun(Said no one ever)
 
 ## License
 
-MIT License (because why not? It's not like you'll be making millions off this... unless you do, in which case, remember who wrote this README! 😉)
+MIT License (because why not? It's not like you'll be making millions off this... unless you do, in which case, remember who wrote this README :D)
 
 ## Acknowledgements
 
